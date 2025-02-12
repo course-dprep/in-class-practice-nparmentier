@@ -5,7 +5,7 @@
 > Feel free to delete this text.
 
 
-# Title of your Project
+# First repository with exercises in dPrep
 *Describe the purpose of this project* 
 
 ## Motivation
